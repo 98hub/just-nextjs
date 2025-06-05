@@ -20,7 +20,7 @@ jobs:
           script: |
             ulimit -u 4096
             ulimit -n 4096
-            cd /home/devstudi/repositories/just-nextjs
+            cd /home/edwardja/repositories/just-nextjs
             git pull origin master
             git status
             npm install
