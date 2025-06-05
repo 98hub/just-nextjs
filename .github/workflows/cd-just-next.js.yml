@@ -18,6 +18,8 @@ jobs:
           key: ${{ secrets.PRIVATE_KEY }} 
           port: 22
           script: |
+            ulimit -u 4096
+            ulimit -n 4096
             cd /home/devstudi/repositories/just-nextjs
             git pull origin master
             git status
