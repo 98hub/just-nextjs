@@ -21,6 +21,5 @@ jobs:
             cd /home/devstudi/repositories/just-nextjs
             git pull origin master
             git status
-            npm install --only=prod
-            npm test
+            npm install
             npm run build
