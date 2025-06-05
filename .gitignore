@@ -1,5 +1,5 @@
 # Node.js
-node_modules/
+# node_modules/
 
 # Logs
 logs
@@ -17,9 +17,9 @@ logs
 package-lock.json
 
 # Ignore build/dist directories
-dist/
-build/
-.next/
+# dist/
+# build/
+# .next/
 
 # Ignore cache directories
 .cache/
@@ -53,3 +53,4 @@ coverage/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+node_modules
