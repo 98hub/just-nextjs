@@ -17,9 +17,9 @@ logs
 package-lock.json
 
 # Ignore build/dist directories
-# dist/
-# build/
-# .next/
+dist/
+build/
+.next/
 
 # Ignore cache directories
 .cache/
