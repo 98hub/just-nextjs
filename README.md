@@ -13,7 +13,7 @@ Aplikasi ini adalah proyek demo untuk menunjukkan implementasi Continuous Integr
 1. **Clone repository ini**
 
    ```bash
-   git clone https://github.com/username/just-nextjs.git
+   git clone https://github.com/98hub/just-nextjs.git
    cd just-nextjs
    ```
 
