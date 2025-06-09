@@ -1,6 +1,6 @@
 # Just-nextjs
 
-Aplikasi ini adalah proyek demo untuk menunjukkan implementasi Continuous Integration dan Continuous Deployment (CI/CD) menggunakan **GitHub Actions & GitLab**. Proyek ini dibuat dengan Next.js sebagai aplikasi default, dan sudah dilengkapi dengan unit test sederhana menggunakan **Jest**.
+Aplikasi ini adalah proyek demo untuk menunjukkan implementasi Continuous Integration dan Continuous Deployment (CI/CD) menggunakan **GitHub Actions**. Proyek ini dibuat dengan Next.js sebagai aplikasi default, dan sudah dilengkapi dengan unit test sederhana menggunakan **Jest**.
 
 ## 📆 Teknologi yang Digunakan
 
