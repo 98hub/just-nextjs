@@ -13,7 +13,7 @@ describe('Home Page', () => {
             )
         ).toBeInTheDocument();
 
-        // 2. Save and see your changes instantly.
+        // 2. Save and see your changes instantly!
         expect(
             screen.getByText('Save and see your changes instantly.')
         ).toBeInTheDocument();
